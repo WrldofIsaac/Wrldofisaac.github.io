@@ -151,3 +151,7 @@ https://www.who.int/publications/m/item/artificial-intelligence-for-health
 ## Tool: GitHub Pages
 
 I'm planning on using GitHub Pages for my project collection because I am very familiar with it and it lets me organize everything on a simple website that people can easily look at. Since my project is about how AI helps in everyday lives, a website makes it easier for people to find what they want and need by different categories and look at the sources that help back it up. Overall, it is easy to share, and it gives me more control over how my collection looks and works.
+
+---
+
+## Link to GitHub Page: https://github.com/WrldofIsaac/Wrldofisaac.github.io
