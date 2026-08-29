@@ -133,7 +133,7 @@ https://www.ftc.gov/news-events/news/press-releases/2024/02/ftc-proposes-new-pro
 **URL:**
 https://www.who.int/publications/m/item/artificial-intelligence-for-health
 
-**Category Placement:** Health & Wellness > Responsible AI
+**Category Placement:** Health & Wellness -> Responsible AI
 
 ### Annotation 
 
@@ -154,4 +154,6 @@ I'm planning on using GitHub Pages for my project collection because I am very f
 
 ---
 
-## Link to GitHub Page: https://github.com/WrldofIsaac/Wrldofisaac.github.io
+## Link to GitHub Page: 
+
+https://github.com/WrldofIsaac/Wrldofisaac.github.io
