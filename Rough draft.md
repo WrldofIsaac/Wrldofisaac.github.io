@@ -1,6 +1,6 @@
 # This guide is meant for college students (or really anyone in school) who already use tools like ChatGPT but were never actually taught how to use them well. The goal is to help them tell the difference between using AI to think better and using it to avoid thinking at all.
 
-# The body is organized by situation sections like "can I use AI on this paper?" or "should AI write my resume?" so people can jump straight to what they need instead of reading front to back. It moves from the basics (what AI is actually good at), into academic integrity, then writing/studying, then job applications, and ends with safety to project your information from scams. 
+# The body is organized by situation sections like "can I use AI on this paper?" or "should AI write my resume?" so people can jump straight to what they need instead of reading front to back. It moves from the basics (what AI is actually good at), into academic integrity, then writing/studying, then job applications, and ends with safety to protect your information from scams. 
 
 # My sources get worked in naturally as I go, not dumped in one giant list at the top. The academic integrity section leans on Tufts and Monash's guidance for what responsible AI use actually looks like, the writing/studying section pulls from Nathan Jung's practical guide, the job hunting part draws on career center resources from Brown and UT Knoxville source, and the safety section uses the FTC for scams and AI-in-health stuff.
 
